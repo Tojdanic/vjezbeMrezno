@@ -1,0 +1,5 @@
+1. client_socket.connect((host,port))
+- klijent se spaja na socket sa odredenom adresom i portom
+
+2. drugi broj u zagradama kod ispisa „Got connection...“
+- prikazuje port s kojim se uredaj spaja na server
